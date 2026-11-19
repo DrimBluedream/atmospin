@@ -1,0 +1,8 @@
+overclocker = true
+
+[render_profile_config]
+menu = "Vanilla"
+offline_match.singles = "Vanilla"
+offline_match.doubles = "Vanilla"
+online_match.singles = "LLUltra"
+online_match.doubles = "LLDoubles"

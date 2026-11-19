@@ -1,0 +1,10 @@
+[Location_0]
+Name=DBILogs
+Type=Local
+URL=sdmc:/switch/DBI/logs
+
+[Location_1]
+Name=DBILogs
+Type=MTPStorage
+URL=sdmc:/switch/DBI/logs
+
